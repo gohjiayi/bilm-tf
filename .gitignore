@@ -6,4 +6,4 @@ build/
 *.pyc
 *.swp
 
-
+venv/
